@@ -1,2 +1,2 @@
 # javascript
-Repositoria com meus arquivos Javascript.
+Repositorio com meus arquivos Javascript.
